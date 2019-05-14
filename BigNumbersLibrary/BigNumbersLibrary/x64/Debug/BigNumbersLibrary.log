@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  BigNumbersLibrary.cpp
+c:\users\jwhong\source\repos\bignumberslibrary\bignumberslibrary\bignumberslibrary.cpp(49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jwhong\source\repos\bignumberslibrary\bignumberslibrary\bignumberslibrary.cpp(97): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jwhong\source\repos\bignumberslibrary\bignumberslibrary\bignumberslibrary.cpp(135): warning C4101: 'product': unreferenced local variable
+  BigNumbersLibrary.vcxproj -> C:\Users\jwhong\source\repos\BigNumbersLibrary\x64\Debug\BigNumbersLibrary.lib

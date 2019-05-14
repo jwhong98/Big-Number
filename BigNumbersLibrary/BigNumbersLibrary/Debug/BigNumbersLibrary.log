@@ -1,0 +1,4 @@
+﻿  BigNumbersLibrary.cpp
+c:\users\jwhong\source\repos\bignumberslibrary\bignumberslibrary\bignumberslibrary.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\jwhong\source\repos\bignumberslibrary\bignumberslibrary\bignumberslibrary.cpp(180): warning C4101: 'product': unreferenced local variable
+  BigNumbersLibrary.vcxproj -> C:\Users\jwhong\source\repos\BigNumbersLibrary\Debug\BigNumbersLibrary.lib
