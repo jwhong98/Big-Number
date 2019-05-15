@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/add.png</file>
+        <file>images/divide.png</file>
+        <file>images/minus.png</file>
+        <file>images/modulus.png</file>
+        <file>images/multiply.png</file>
+    </qresource>
+</RCC>
